@@ -1,0 +1,357 @@
+{
+  "header": {
+    "title": "Dualite ERP",
+    "subtitle": "The Smart Enterprise Platform",
+    "nav": {
+      "home": "Home",
+      "modules": "Modules",
+      "store": "Store",
+      "ai_services": "AI Services",
+      "premium_services": "Premium Services",
+      "documentation": "Documentation",
+      "about": "About Us",
+      "contact": "Contact Us"
+    },
+    "search_placeholder": "Search...",
+    "login": "Login",
+    "free_trial": "Start Free",
+    "profile": {
+      "user_profile": "User Profile",
+      "dashboard": "Dashboard",
+      "management": "Management",
+      "revenue_dashboard": "Revenue Dashboard",
+      "subscription": "My Subscription",
+      "orders": "My Orders",
+      "logout": "Logout",
+      "role": "Role"
+    },
+    "subscription_tier": {
+      "free": "Free",
+      "professional": "Professional",
+      "enterprise": "Enterprise"
+    }
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "products": "Products",
+    "customers": "Customers",
+    "orders": "Orders",
+    "financials": "Financials",
+    "management": "Management",
+    "revenue": "Revenue",
+    "ai_agent": "AI Agent",
+    "settings": "Settings"
+  },
+  "products": {
+    "title": "Products Management",
+    "subtitle": "List of all products in your system",
+    "add_new": "New Product",
+    "import": "Import",
+    "search_placeholder": "Search by name, category, or brand...",
+    "loading": "Loading products...",
+    "table": {
+      "product": "Product",
+      "category": "Category",
+      "brand": "Brand",
+      "price": "Price",
+      "stock": "Stock",
+      "rating": "Rating",
+      "actions": "Actions"
+    },
+    "pagination": {
+      "showing": "Showing",
+      "to": "to",
+      "of": "of",
+      "results": "results"
+    }
+  },
+  "ai_agent": {
+    "title": "Dualite AI Agent",
+    "subtitle": "Use artificial intelligence to get reports, analyze data, and execute commands.",
+    "greeting": "Hello! I am the Dualite AI Agent. How can I assist you? You can start by asking a question or using the suggestions below.",
+    "placeholder": "Ask your question in English... e.g., 'What was the sales report for last month?'",
+    "response_prefix": "Processing your request for:",
+    "prompt1": "Last month's sales report",
+    "prompt2": "Products with stock less than 10",
+    "prompt3": "Top 5 customers this quarter",
+    "prompt4": "Forecast sales for product X next month"
+  },
+  "footer": {
+    "description": "Dualite ERP is a modular, sellable platform for distribution companies, chain stores, and retailers, empowering your business operations with AI capabilities and Google Sheets integration.",
+    "subscription_plans": "Subscription Plans:",
+    "platform_features": "Platform Features",
+    "features": {
+      "smart_modules": "Smart Modules",
+      "ai_services": "AI Services",
+      "google_sheets": "Google Sheets Integration",
+      "swot_analysis": "Smart SWOT Analysis",
+      "sales_forecasting": "Sales Forecasting",
+      "on_premise": "On-Premise Installation"
+    },
+    "main_modules": "Core Modules",
+    "modules": {
+      "inventory": "Inventory Management",
+      "finance": "Finance Management",
+      "distribution": "Distribution Management",
+      "sales": "Sales Management",
+      "visitors": "Visitor Management",
+      "tracking": "Product Tracking"
+    },
+    "contact_support": "Support & Contact",
+    "quick_support": "Quick Support",
+    "support": {
+      "docs": "Technical Docs",
+      "ticket": "Submit a Ticket",
+      "chat": "Live Chat",
+      "tutorials": "Video Tutorials"
+    },
+    "newsletter": "Tech Newsletter",
+    "newsletter_placeholder": "Your Email",
+    "subscribe": "Subscribe",
+    "newsletter_desc": "Get the latest news and updates from the platform.",
+    "copyright": "© {year} Dualite ERP. All rights reserved.",
+    "version": "Version",
+    "made_in": "Made with ❤️ in Iran",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "license": "License"
+  },
+  "home": {
+    "hero": {
+      "badge_new": "New Modular Platform",
+      "badge_version": "Version 2.1.0",
+      "title_1": "Dualite",
+      "title_2": "ERP",
+      "subtitle": "The smart modular platform for distribution companies, chain stores, and retailers with AI capabilities.",
+      "cta_dashboard": "Go to Dashboard",
+      "cta_free_trial": "Start Free",
+      "cta_demo": "Watch Demo",
+      "feature_1": "30-Day Free Trial",
+      "feature_2": "No Credit Card Required",
+      "feature_3": "24/7 Support",
+      "satisfaction_rate": "User Satisfaction"
+    },
+    "stats": {
+      "companies": "Active Companies",
+      "users": "Happy Users",
+      "uptime": "Server Uptime",
+      "support": "Support"
+    },
+    "features": {
+      "title": "Advanced Platform Features",
+      "subtitle": "All the tools you need for modern business management in one unified platform.",
+      "inventory": "Smart Inventory Management",
+      "inventory_desc": "Manage stock, track goods, and automate reporting.",
+      "finance": "Advanced Financial Management",
+      "finance_desc": "Complete accounting, invoicing, and financial analysis.",
+      "distribution": "Distribution & Logistics Network",
+      "distribution_desc": "Manage transportation, routing, and logistics.",
+      "store": "Online Store",
+      "store_desc": "Sell physical and digital products with a payment gateway.",
+      "ai": "Artificial Intelligence",
+      "ai_desc": "Smart assistant, SWOT analysis, and sales forecasting.",
+      "analytics": "Analytics & Reporting",
+      "analytics_desc": "Admin dashboard and Power BI integration."
+    },
+    "plans": {
+      "title": "Subscription Plans",
+      "subtitle": "Choose the right plan for your business size.",
+      "free": "Free",
+      "professional": "Professional",
+      "enterprise": "Enterprise",
+      "monthly": "/month",
+      "free_users": "Up to 3 users",
+      "free_modules": "Basic modules",
+      "free_storage": "1 GB storage",
+      "free_support": "Email support",
+      "pro_users": "Up to 15 users",
+      "pro_modules": "All modules",
+      "pro_storage": "50 GB storage",
+      "pro_ai": "AI services",
+      "pro_support": "Phone support",
+      "ent_users": "Unlimited users",
+      "ent_modules": "All advanced modules",
+      "ent_storage": "Unlimited storage",
+      "ent_onpremise": "On-Premise installation",
+      "ent_support": "Dedicated 24/7 support",
+      "cta_start_free": "Start Free",
+      "cta_start_trial": "Start Trial",
+      "cta_contact_sales": "Contact Sales",
+      "most_popular": "Most Popular"
+    },
+    "testimonials": {
+      "title": "Customer Testimonials",
+      "subtitle": "Real experiences from businesses using Dualite ERP."
+    },
+    "cta": {
+      "title": "Ready to Start Your Smart Business?",
+      "subtitle": "Try Dualite ERP for free today and see the difference in your business.",
+      "cta_free_trial": "Start 30-Day Free Trial",
+      "cta_request_demo": "Request a Demo"
+    }
+  },
+  "chatbot": {
+    "greeting": "Hello! I'm the Dualite ERP AI assistant. How can I help you?",
+    "title": "AI Assistant",
+    "status": "Online",
+    "placeholder": "Write your message...",
+    "quick_actions_title": "Quick Actions:",
+    "quick_actions": {
+      "modules": "Available Modules",
+      "pricing": "Pricing",
+      "help": "Getting Started",
+      "ai_features": "AI Features"
+    },
+    "typing": "Typing...",
+    "responses": {
+      "modules": "We have 6 core modules: Inventory, Finance, Distribution, Sales, Visitor Management, and Product Tracking. Which one would you like to know more about?",
+      "pricing": "We have 3 plans: Free ($0), Professional ($29.99/mo), and Enterprise ($99.99/mo). The Free plan includes basic modules and up to 3 users. Which plan suits you best?",
+      "help": "To get started: 1) Sign up, 2) Choose a plan, 3) Activate needed modules, 4) Connect Google Sheets. Do you need more help?",
+      "ai": "Our AI features include: AI chat assistant, automated SWOT analysis, sales forecasting, content generation (text, image, video), and customer sentiment analysis. Which part interests you?",
+      "google_sheets": "Yes! We are fully integrated with Google Sheets. All forms and data are saved directly to your sheets, making data management very easy!",
+      "greeting": "Hello! Welcome to Dualite ERP. I'm here to help you choose the best solution for your business. What's your question?",
+      "support": "Our support is available 24/7! Contact methods: 1) Live chat, 2) Email: support@dualite-erp.com, 3) Phone: +1-555-1234, 4) Submit a ticket from your panel.",
+      "fallback": "I'm sorry, I didn't quite understand your question. Could you please explain it further or use the buttons below? You can also contact our support team."
+    }
+  },
+  "login": {
+    "title": "Login to your account",
+    "subtitle": "Glad to see you again!",
+    "email": "Email Address",
+    "email_placeholder": "example@company.com",
+    "password": "Password",
+    "remember_me": "Remember me",
+    "forgot_password": "Forgot your password?",
+    "login_button": "Login",
+    "no_account": "Don't have an account?",
+    "register_now": "Register now",
+    "back_to_home": "Back to Home",
+    "info_text": "The smart modular platform to optimize and grow your business."
+  },
+  "register": {
+    "title": "Create a new account",
+    "subtitle": "Join the Dualite ERP family and smarten up your business.",
+    "name": "Full Name",
+    "name_placeholder": "e.g. John Doe",
+    "company": "Company Name",
+    "company_placeholder": "e.g. Sample Distribution Inc.",
+    "email": "Email Address",
+    "email_placeholder": "example@company.com",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "agree_to_terms": "I agree to the",
+    "terms_and_conditions": "Terms and Conditions",
+    "register_button": "Sign up and create account",
+    "already_have_account": "Already have an account?",
+    "login_now": "Login now",
+    "back_to_home": "Back to Home"
+  },
+  "dashboard": {
+    "title": "Management Dashboard",
+    "welcome": "Welcome, {name}!"
+  },
+  "notfound": {
+    "title": "Page Not Found",
+    "message": "Sorry, the page you are looking for does not exist. You might have mistyped the address or the page may have been moved.",
+    "go_home": "Go back home",
+    "search_placeholder": "Search the site..."
+  },
+  "premium_services": {
+    "title": "Premium & Value-Added Services",
+    "subtitle": "Elevate your business to the next level and increase your revenue with our advanced services.",
+    "purchase_button": "Purchase & Activate",
+    "purchase_alert": "Redirecting to payment page for service:",
+    "swot_title": "Professional SWOT Analysis",
+    "swot_price": "$50.00",
+    "swot_feature1": "In-depth market and competitor analysis",
+    "swot_feature2": "Strategic and actionable recommendations",
+    "swot_feature3": "Full PDF report for presentation",
+    "route_title": "Smart Route Optimization",
+    "route_price": "$5.00 / per vehicle",
+    "route_feature1": "30% reduction in fuel and time costs",
+    "route_feature2": "Traffic and road condition prediction",
+    "route_feature3": "Driver performance reports",
+    "consulting_title": "Expert Business Consulting",
+    "consulting_price": "$50.00 / hour",
+    "consulting_feature1": "Session with senior distribution industry experts",
+    "consulting_feature2": "Receive a custom action plan",
+    "consulting_feature3": "Access to a network of professionals"
+  },
+  "revenue_dashboard": {
+    "title": "Revenue Dashboard",
+    "subscriptions": "Subscription Revenue",
+    "services": "Services Revenue",
+    "commissions": "Commission Revenue",
+    "total": "Total Monthly Revenue",
+    "last_month": "vs. last month",
+    "chart_title": "Revenue Performance (Last 6 Months)",
+    "top_services_title": "Top Selling Services",
+    "toman": "IRR"
+  },
+  "management": {
+    "title": "Unified Management Dashboard",
+    "subtitle": "Manage customers, human resources, procurement, and data imports in one place.",
+    "tabs": {
+      "crm": "CRM & Customers",
+      "hrm": "Human Resources",
+      "procurement": "Procurement",
+      "import": "Bulk Import"
+    },
+    "bulk_import": {
+      "title": "Bulk Data Import",
+      "subtitle": "Select the data type to import and upload the Excel file.",
+      "import_products": "Import Products",
+      "import_products_desc": "Bulk add products from an Excel file",
+      "import_customers": "Import Customers",
+      "import_customers_desc": "Bulk add customers from an Excel file",
+      "import_employees": "Import Employees",
+      "import_employees_desc": "Bulk add employees from an Excel file",
+      "upload_zone_title": "Drag & drop your Excel file here or click to browse",
+      "upload_zone_desc": "Only .xlsx and .xls files are allowed",
+      "download_template": "Download Excel Template",
+      "upload_button": "Upload File",
+      "history_title": "Import History",
+      "table": {
+        "file_name": "File Name",
+        "type": "Type",
+        "status": "Status",
+        "records": "Records",
+        "date": "Date",
+        "user": "User",
+        "actions": "Actions"
+      },
+      "status": {
+        "completed": "Completed",
+        "processing": "Processing",
+        "failed": "Failed",
+        "pending": "Pending"
+      },
+      "type": {
+        "products": "Products",
+        "customers": "Customers",
+        "employees": "Employees"
+      }
+    },
+    "crm_dashboard": {
+      "title": "CRM Dashboard",
+      "new_customers": "New Customers (30d)",
+      "active_customers": "Active Customers",
+      "vip_customers": "VIP Customers",
+      "customer_satisfaction": "Customer Satisfaction"
+    },
+    "hrm_dashboard": {
+      "title": "HRM Dashboard",
+      "total_employees": "Total Employees",
+      "on_leave": "Employees on Leave",
+      "new_hires": "New Hires",
+      "attendance_today": "Today's Attendance"
+    },
+    "procurement_dashboard": {
+      "title": "Procurement Dashboard",
+      "pending_pos": "Pending POs",
+      "active_suppliers": "Active Suppliers",
+      "overdue_deliveries": "Overdue Deliveries",
+      "monthly_spend": "Monthly Spend"
+    }
+  }
+}
